@@ -5,7 +5,10 @@
 ## What is it?
 My Notes and exersices in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
 ## Sessions
-
++ Session 1
+      Presenters:
+          + Mr.Tajalli
+          + Mr.Mousavi
 
 ## Requirments
 I write my notes in [Joplin](https://joplinapp.org/). You can download it with this command in linux
