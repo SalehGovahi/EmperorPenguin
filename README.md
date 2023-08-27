@@ -8,7 +8,7 @@ My Notes in **linux project-oriented** learning course at [Part Software Group](
 I write my notes in [Joplin](https://joplinapp.org/). You can download it with this command in linux
 
     
-    pkg install  python python3 git -y
+    wget -O - https://raw.githubusercontent.com/laurent22/joplin/dev/Joplin_install_and_update.sh | bash
 
 
 ## 
