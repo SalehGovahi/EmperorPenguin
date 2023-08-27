@@ -5,10 +5,7 @@
 ## What is it?
 My Notes and exersices in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
 ## Sessions
-1. [Session1](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%201)
-    - Presenters:
-         + Mr.Tajalli
-         + Mr.Mousavi
++ [Session1](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%201)
 
 ## Requirments
 I write my notes in [Joplin](https://joplinapp.org/). You can download it with this command in linux
