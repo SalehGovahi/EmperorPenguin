@@ -2,7 +2,7 @@
 [![Linux](https://img.shields.io/badge/-LINUX-blue)](https://www.debian.org/)
 
 # EmperorPenguin
-## What is it?
+## What is in repository?
 My Notes and exersices in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
 ## Sessions
 + [Session1](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%201)
