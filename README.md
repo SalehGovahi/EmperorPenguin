@@ -3,7 +3,7 @@
 
 # EmperorPenguin
 ## What is it?
-My Notes in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
+My Notes and exersices in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
 ## Sessions
 
 
