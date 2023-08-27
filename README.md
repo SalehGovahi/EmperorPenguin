@@ -1,3 +1,6 @@
+[![Available_in](https://img.shields.io/badge/-Available%20in-555)]()
+[![Linux](https://img.shields.io/badge/-LINUX-blue)](https://www.debian.org/)
+
 # EmperorPenguin
 ## What is it?
 My Notes in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
