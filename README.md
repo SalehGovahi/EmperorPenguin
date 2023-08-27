@@ -6,8 +6,11 @@
 My Notes and exersices in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
 ## Sessions
 + Session 1
+  
       Presenters:
+  
           + Mr.Tajalli
+  
           + Mr.Mousavi
 
 ## Requirments
