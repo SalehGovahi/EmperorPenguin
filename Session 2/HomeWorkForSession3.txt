@@ -1,0 +1,3 @@
+Homework for next session is :
+define the difference between debian and ubuntu
+check the repository address meaning
