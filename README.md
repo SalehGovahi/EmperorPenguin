@@ -5,8 +5,9 @@
 ## What is in repository?
 My Notes and exersices in **linux project-oriented** learning course at [Part Software Group](https://www.partsoftware.com/)
 ## Sessions
-+ [Session1](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%201)
-+ [Session2](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%202)
++ [Session 1](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%201)
++ [Session 2](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%202)
++ [Session 3](https://github.com/SalehGovahi/EmperorPenguin/tree/main/Session%203)
 
 ## Requirments
 I write my notes in [Joplin](https://joplinapp.org/). You can download it with this command in linux
